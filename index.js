@@ -1,3 +1,6 @@
+function add(a,b){
+  
+}
 
 function inc(n){
   return ++n;
